@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **webWeaver (An app to build project portfolios, track job applications, build CV and more..)**
 
-- 👨‍💻 All of my projects are available at [https://jsegbefia.netlify.app/](https://jsegbefia.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jsegbefia.netlify.app/](https://webweavrr.com/portfolios/joseph-segbefia-e8179c)
 
 - 💬 Ask me about **fullstack development**
 
-- 📫 How to reach me **elorma.segbefia@gmail.com**
+- 📫 How to reach me **ejosephsegbefia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
