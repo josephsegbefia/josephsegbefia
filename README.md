@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **webWeaver (An app to build project portfolios, track job applications, build CV and more..)**
 
-- 👨‍💻 All of my projects are available at [https://jsegbefia.netlify.app/](https://webweavrr.com/portfolios/joseph-segbefia-e8179c)
+- 👨‍💻 All of my projects are available at [](https://webweavrr.com/portfolios/joseph-segbefia-e8179c)
 
 - 💬 Ask me about **fullstack development**
 
