@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephsegbefia" alt="josephsegbefia" /></a> </p>
 
-- 🔭 I’m currently working on **webWeaver (An app to build project portfolios, track job applications, build CV and more..)**
-
-- 👨‍💻 All of my projects are available at [webweavrr](https://webweavrr.com/portfolios/joseph-segbefia-e8179c)
+- 🔭 I’m currently working on **Edusentrix (A school managemnet app) Layiing the foundation for Appsentrix world dominance**
 
 - 💬 Ask me about **fullstack development**
 
