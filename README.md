@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephsegbefia" alt="josephsegbefia" /></a> </p>
 
-- 🔭 I’m currently working on **Edusentrix (A school management platform) Layiing the foundation for Appsentrix world dominance**
+- 🔭 I’m currently working on **Edusentrix (A school management platform) Laying the foundation for Appsentrix world dominance**
 
 - 💬 Ask me about **fullstack development**
 
